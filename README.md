@@ -27,6 +27,14 @@ Thank you for visiting my GitHub profile. Let's collaborate, learn, and build am
 <a href="https://www.github.com/Vetrivel-VP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vetrivelravi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
+
 ### 🌐 Full-Stack Expertise
 
 As a Full-Stack Web Developer, I am well-versed in both front-end and back-end technologies. Here's a glimpse of my skill set: 
@@ -63,10 +71,4 @@ As a Full-Stack Web Developer, I am well-versed in both front-end and back-end t
 
 <div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/travel-advisor-react-native-app-oct-06-22" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=travel-advisor-react-native-app-oct-06-22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Vetrivel-VP/food-delivery-react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=food-delivery-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vetrivelravi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
