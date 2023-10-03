@@ -4,29 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Content Creator & Freelanzer
 ----------------------------
 
-Hello and welcome to my GitHub profile! I'm Vetrivel Ravi, a passionate and experienced Full-Stack Web Developer, Freelancer, and Content Creator on YouTube. 
-
-### About Me
-
-I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began several years ago, and I've had the privilege of working with a wide range of technologies and frameworks. 
-
-### 🌐 Full-Stack Expertise
-
-As a Full-Stack Web Developer, I am well-versed in both front-end and back-end technologies. Here's a glimpse of my skill set: 
-
-### Front-End:
-
-I specialize in crafting beautiful, responsive, and user-friendly front-end interfaces using HTML, CSS, and JavaScript. I'm proficient in popular front-end libraries and frameworks like React, Angular, and Vue.js. 
-
-### Back-End:
-
-On the server side, I'm skilled in building robust APIs and handling database operations using technologies such as Node.js, Express.js, Django, and Ruby on Rails. 
-
-### Databases:
-
-I have experience working with various databases, including SQL databases like MySQL and PostgreSQL, as well as NoSQL databases like MongoDB. DevOps: 
-
-I'm familiar with deploying applications on cloud platforms like AWS, Azure, and Heroku. I understand the importance of DevOps practices in ensuring the reliability and scalability of web applications. 
+Hello and welcome to my GitHub profile! I'm Vetrivel Ravi, a passionate and experienced Full-Stack Web Developer, Freelancer, and Content Creator on YouTube.  I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began several years ago, and I've had the privilege of working with a wide range of technologies and frameworks. 
 
 ### 💼 Freelancing
 
@@ -48,6 +26,10 @@ Thank you for visiting my GitHub profile. Let's collaborate, learn, and build am
 
 <a href="https://www.github.com/Vetrivel-VP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### 🌐 Full-Stack Expertise
+
+As a Full-Stack Web Developer, I am well-versed in both front-end and back-end technologies. Here's a glimpse of my skill set: 
 
 ### Skills
 
